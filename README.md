@@ -48,3 +48,4 @@ González-Abad, J. (2026). Statistical Downscaling of Climate Projections with D
   howpublished={\url{https://github.com/climatechange-ai-tutorials/downscaling-climate-projections}}
 }
 ```
+#Example
